@@ -1,1 +1,1 @@
-# Trading-Autom-tico
+# Trading-Automatico
