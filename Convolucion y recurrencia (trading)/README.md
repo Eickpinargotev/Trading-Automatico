@@ -1,3 +1,42 @@
-# ESTRATEGIA US30.Cash
-- Encontrarás que este proyecto esta dividido en varias partes, en cada parte un avance es registrado, generalmente explicado en un archivo `.ipynb`.
-- Cada parte sera nombrada como V0X donde X es la versión del documento, siempre que la versión avanza hay una continuación, se agregan mejoras o se continua la programación para evitar archivos muy grandes.
+HABILIDADES NECESARIAS PARA EL DESARROLLO DE ESTE PROYECTO
+
+Manejo del overfitting
+- Dropout
+- Regularización L1 y L2
+- Balance entre neuronas (FNNs), filtros (CNNs) y celdas de memoria (LSTM)
+
+Equilibrio de clases
+- Undersampling
+- Oversampling
+- compute_class_weight de sklearn.utils
+
+Diferentes arquitecturas de deep learning
+- Redes neuronales convolucionales 1D
+- Redes LSTM
+- Redes totalmente conectadas
+
+Funciones de pérdida
+- Sigmoide
+- ReLU
+- Softmax
+- etc.
+
+Funciones de activación
+- Binary crossentropy
+- Sparse categorical crossentropy
+
+Métricas para clasificación binaria o multiclase
+- Matriz de confusión
+- Precision score
+- Accuracy
+- F1 score
+- Curva ROC
+- Valor AUC
+- etc.
+
+Se demostró habilidad en el manejo de las siguientes librerías:
+
+- Pandas
+- Numpy
+- TensorFlow
+- Scikit-learn
