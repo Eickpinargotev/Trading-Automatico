@@ -1,3 +1,8 @@
-Se busca usando transformaciónde datos en python, identificar fair value gaps y hacer backtesting de una estrategia simple.  
-El objetivo es: Ver la importancia y el poder de python y pandas en el bactest de estrategias de trading.  
-Mas información del proyecto en este video: https://youtu.be/hRGiMa6woGg  
+# Descripción del Proyecto
+
+Este proyecto tiene como objetivo identificar **Fair Value Gaps** mediante la transformación de datos utilizando Python, y realizar el backtesting de una estrategia de trading simple.
+
+## Propósito del Proyecto
+Demostrar la relevancia y el potencial de herramientas como **Python** y **Pandas** para analizar datos financieros y evaluar estrategias de trading de manera eficiente.
+
+Para obtener más detalles sobre este proyecto, puedes consultar el siguiente video: [Ver Video en YouTube](https://youtu.be/hRGiMa6woGg).
